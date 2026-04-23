@@ -1,51 +1,47 @@
-<h1 align="center"> Hello Everyone 👋 </h1>
+<h1 align="center"> Hi 👋, I'm Prabash Sandakalum </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Prabash+Sandakalum;Computer+Science+Undergraduate;Welcome+to+my+GitHub+Profile;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Web+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 BSc (Hons) Computer Science Undergraduate  
-- 💻 Passionate about Software Development & Web Technologies  
-- 🔐 Interested in Cybersecurity (Ethical Hacking)  
-- 🚀 Always learning new technologies and building projects  
+- 💻 Interested in Web Development & Software Engineering  
+- 🔐 Cybersecurity (Ethical Hacking) Enthusiast  
+- 🌱 Currently learning modern technologies  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabash0929&layout=compact&theme=chartreuse-dark">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabash0929&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" width="400">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,git,github,vscode" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabash0929&theme=chartreuse-dark">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabash0929&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabash0929&theme=radical&hide_border=true"/>
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabash0929&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabash0929&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -53,24 +49,34 @@
 ## 📂 Projects
 
 ### 🎓 Student Management System
-- Developed using C# and SQL Server  
-- Features: Student registration, data management, search functionality  
+- C# + SQL Server  
+- Student registration & data management  
 
-### 🌐 Personal Portfolio Website
-- Built using HTML, CSS, and JavaScript  
-- Showcases projects and skills  
+### 🌐 Portfolio Website
+- HTML, CSS, JavaScript  
+- Personal projects showcase  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-	<a href="mailto:Prabashsandakalum0207@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/prabash-sandakalum-88250b2a1"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Prabashsandakalum0207@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prabash-sandakalum-88250b2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabash0929&label=Profile%20Views&color=brightgreen&style=plastic"/>
+  <img src="https://komarev.com/ghpvc/?username=prabash0929&label=Visitors&color=blueviolet&style=for-the-badge"/>
 </p>
+
+---
+
+<p align="center">🔥 "Code. Learn. Build. Repeat." 🔥</p>
