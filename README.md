@@ -11,11 +11,13 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
+  <b>
 🎓 Undergraduate in Computer Science <br>
 💻 Passionate about Web & Mobile Application Development <br>
 🔐 Interested in Cybersecurity & Modern Technologies <br>
 🤖 Exploring AI Technologies & Software Engineering <br>
 🌱 Continuously learning and building innovative projects
+  </b>  
 </p>
 
 ---
