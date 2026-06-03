@@ -30,15 +30,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
- 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabash0929&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
-
----
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
